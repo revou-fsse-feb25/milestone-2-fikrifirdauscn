@@ -1,5 +1,5 @@
 # milestone-2-FikriFirdausCakraNegara
-# Revofun (simole web game) by Fikri Firdaus CN
+# Revofun (simple web game) by Fikri Firdaus CN
 
 This is a simple, fun game project based on HTML, CSS, and JavaScript from the Revou class.
 
