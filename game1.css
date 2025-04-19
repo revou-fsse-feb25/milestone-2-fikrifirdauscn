@@ -1,0 +1,133 @@
+:root {
+    --darkblue: #1f2a4d;
+    --blue: #273d88;
+    --whiteblue: #a7afcb;
+    --background: #ffffff;
+    --gradiet-1: #343e63;
+    --gradiet-2: #1f2a4d;
+    --border: #000000;
+
+}
+
+
+
+html {
+    font-size: 10px;
+    font-weight: 300;
+}
+
+body {
+    width: 90vw;
+    margin: 0 auto;
+    background-image: url(asset/mick-haupt-3UbsiRcrFV4-unsplash.jpg);
+    background-size: cover;
+}
+
+main {
+    text-align:center;
+    background: var(--background);
+    border: var(--border);
+    border-width: 0 8px 8px 8px;
+    min-height: 80vh;
+    border-radius: 0 0 3Rem 3rem;
+    padding: 1rem;
+    color: #000000;
+}
+
+h2 {
+    font-size: 2.2rem;
+    margin: 8rem 0;
+}
+
+p {
+    font-size: 1.8rem;
+}
+
+.button-wrapper {
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    background: var(--blue);
+    padding: 2rem;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+button:first-child {
+    border: none;
+    background: var(--whiteblue);
+    border-radius: 1rem 1rem 1rem 1rem;
+    color: white;
+    
+}
+
+button:nth-child(2) {
+    background: var(--blue);
+    border-radius: 1rem 1rem 1rem 1rem;
+    color: white;
+}
+
+button:last-child {
+    background: var(--darkblue);
+    border-radius: 1rem 1rem 1rem 1rem;
+    color: white;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+input {
+    border: 1px solid rgb(0, 0, 0);
+    background: transparent;
+    margin: 2rem 0;
+    padding: 1rem;
+    width: 16rem;
+    text-align: center;
+
+}
+
+#range {
+    display:flex;
+    justify-content: center;
+    background: var(--darkblue);
+    height: 50px;
+    padding: 0;
+    margin: 0 0 4rem 0;
+}
+
+#rangeOutput {
+    font-size: 1.6rem;
+
+}
+
+.stats {
+    text-align: left;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info span {
+    font-size: 1.6rem;
+    ;
+}
+
+#newGameButton {
+    border-radius: 0;
+}
+
+@media (min-width: 800px) {
+    body {
+        width: 60vw;
+    }
+}
