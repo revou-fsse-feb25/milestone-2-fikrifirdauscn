@@ -27,4 +27,4 @@ This project demonstrates fundamental web development concepts and the use of HT
 
 My project is hosted on [Hosting platform, e.g., Netlify, Vercel, GitHub Pages, etc.] and can be accessed at:
 
-https://revofun.netlify.app/
+revoofungame.netlify.app
