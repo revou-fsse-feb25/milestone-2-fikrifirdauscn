@@ -1,0 +1,34 @@
+[
+    {
+        "image": "../memorycardgame/asset/cat.png",
+        "name": "cat"
+    },
+    {
+        "image": "../memorycardgame/asset/crab.png",
+        "name": "crab"
+    },
+    {
+        "image": "../memorycardgame/asset/fox.png",
+        "name": "fox"
+    },
+    {
+        "image": "../memorycardgame/asset/frog.png",
+        "name": "frog"
+    },
+    {
+        "image": "../memorycardgame/asset/giraffe.png",
+        "name": "giraffe"
+    },
+    {
+        "image": "../memorycardgame/asset/koala.png",
+        "name": "koala"
+    },
+    {
+        "image": "../memorycardgame/asset/seaturtle.png",
+        "name": "seaturtle"
+    },
+    {
+        "image": "../memorycardgame/asset/whale.png",
+        "name": "whale"
+    }
+]
