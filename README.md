@@ -8,10 +8,10 @@ This is a simple, fun game project based on HTML, CSS, and JavaScript from the R
 This project showcases three simple and fun web-based games developed using HTML for structure, CSS for styling, and JavaScript for interactivity. These games were created as part of the Revou class.
 
 **Games Included:**
-
+git a
 * **Rock Paper Scissors:** A classic two-player game where users choose rock, paper, or scissors to determine the winner.
 * **Guess the Number:** A number guessing game where the user tries to guess a randomly generated number within a certain range.
-* **Clicker Game:** A basic incremental game where users click a button to accumulate points, potentially with upgrades or other features.
+* **Memory Card Game:** Match the pairs! Test your memory in this fun and easy card game.
 
 **Technologies Used:**
 
